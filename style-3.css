@@ -1,25 +1,10 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    background-color: #f6f6fc;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    min-height: 100vh;
-    padding: 40px 20px;
-}
-
 .page-container {
     width: 100%;
-    max-width: 1000px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
+    padding: 50px 320px;
 }
 
 .sec-3 {
