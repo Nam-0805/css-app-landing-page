@@ -76,6 +76,7 @@
     text-decoration-color: #5833EA; 
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
+    cursor: pointer;
   }
 
   .content .box-1 {
