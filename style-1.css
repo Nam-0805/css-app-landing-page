@@ -85,7 +85,7 @@
     display: flex;
     align-items: center;     
     justify-content: center; 
-    margin: 20px auto; 
+    margin-top: 50px;
   }
 
   .content .box-1 p {
@@ -101,10 +101,9 @@
 
   .content .box-title {
     font-family: Inter;
-    font-weight: 800;
+    font-weight: 1000;
     font-style: Extra Bold;
-    font-size: 80px;
-    leading-trim: NONE;
+    font-size: 100px;
     line-height: 84px;
     letter-spacing: -2%;
     text-align: center;    
@@ -151,4 +150,14 @@
     leading-trim: NONE;
     line-height: 24px;
     letter-spacing: 0%;
+  }
+
+  .content button:hover {
+    background-color: #5F5F76;
+  }
+  
+  .content button:focus-visible,
+  .content button:active {
+    box-shadow: inset 0 0 0 4px #5F5F76;
+    background-color: #35354D;
   }
