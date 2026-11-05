@@ -1,0 +1,58 @@
+.section-2 {
+    padding: 40px 24px 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .page {
+    height: 250px;
+    display: flex;
+    gap: 40px;
+    margin: 0px 300px;
+  }
+
+  .box {
+    flex: 1;
+    padding: 20px 20px 24px;
+    border-radius: 16px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .Streamlined { background-color: #dbe6f7; }
+  .Blazing     { background-color: #d9defa; }
+  .Intuitive   { background-color: #e8dcf5; }
+
+  /* ตัวหนังสือในการ์ด */
+  .box h1 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #1A1A2C;
+    margin: 40px 0 12px;
+  }
+
+  .box p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #5a5a6e;
+  }
+
+  .icon {
+    width: 48px;
+    height: 48px;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #5E44FF;
+  }
+
+  .icon svg {
+    display: block;
+    width: 24px;
+    height: 24px;
+  }
+
+  @media (max-width: 768px) {
+    .page { flex-direction: column; }
+  }

@@ -1,0 +1,17 @@
+[33mcommit 52077b2a2ebd9619fbaf4e0478b1630593aab42f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNAM[m[33m)[m
+Author: Nam Kamolros <kamolros2508@gmail.com>
+Date:   Thu Nov 5 16:22:26 2026 +0700
+
+    Refactor index.html to implement a new layout with updated styles in style-2.css; removed old style.css and added VSCode settings for live server.
+
+[33mcommit 035ea5eddfd0ae71f2b68600984413c802032786[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mu Vonglao <muvonglao@gmail.com>
+Date:   Fri Aug 16 10:05:36 2024 +0700
+
+    update exercise
+
+[33mcommit eb6f083819ca03a8838014d06435153c1cd00c2d[m
+Author: Mu Vonglao <muvonglao@gmail.com>
+Date:   Thu Aug 15 21:04:57 2024 +0700
+
+    init project
